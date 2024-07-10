@@ -28,7 +28,7 @@ Check out the live demo: [ZippyURL Demo](https://pro.intactautomation.com/zippy-
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/zippyurl.git
+    git clone https://github.com/ramp00786/zippyurl.git
     ```
 
 2. **Navigate to the project directory:**
